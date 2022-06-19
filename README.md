@@ -1,6 +1,9 @@
 # vue2-vite-boilerplate
 Build vue2 project with vite.
-> Note: The boilerplate is still being tested
+> The boilerplate is still being tested
+
+## How does it do it?
+vitejs team developed the [vite-plugin-vue2](https://github.com/vitejs/vite-plugin-vue2)
 
 ## Features
 | Feature | Description |
@@ -12,6 +15,7 @@ Build vue2 project with vite.
 | vue-i18n | ✅ |
 | typescript | ✅ |
 | setup | ✅ |
+| sass | ✅ |
 | jsx | ❌ |
 
 
