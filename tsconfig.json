@@ -1,6 +1,10 @@
 {
     "include": ["."],
     "exclude": ["**/*.spec.ts"],
+    "baseUrl": ".",
+    "paths": {
+        "@/*": ["src/*"]
+    },
     "compilerOptions": {
         "outDir": "dist",
         "target": "ES2020",
